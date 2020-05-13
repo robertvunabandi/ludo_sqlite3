@@ -33,14 +33,14 @@ or a game for which they have a restricted access to (i.e., through password).
 
 All games are in 3 states:
 1. WAITING
-  - While a game is in this state, new players may join in or leave the game.
-  - At most 4 players may join, and at least 2 players must join.
-  - Viewers may also join as viewers.
+   - While a game is in this state, new players may join in or leave the game.
+   - At most 4 players may join, and at least 2 players must join.
+   - Viewers may also join as viewers.
 2. ONGOING
-  - Games in this state can be viewed.
-  - Viewers may join any ongoing game.
+   - Games in this state can be viewed.
+   - Viewers may join any ongoing game.
 3. COMPLETED
-  - A history of the game can be viewed by anyone.
+   - A history of the game can be viewed by anyone.
 
 ### Game Rules
 
